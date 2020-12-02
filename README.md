@@ -6,10 +6,9 @@ I am a Softwar Engineer, who is working with front-end Technologies + Devops Tec
 - ☀️ Learning and Developing Projects based on latest Front-end Technologies + Devops tools.
 - ✍️ Writing tech blog posts over the Internet.
 <br />
-<br />
 
 - 🌱 I’m currently learning and experimenting Devops tools such as Docker/Kubernettes/Azure VMs/Container Technologies and Pipeline development.
-- 📫 How to reach me: <https://www.linkedin.com/in/nimeshmhj/">@Nimesha</a> 
+- 📫 How to reach me: [Nimesha's Linkedin](https://www.linkedin.com/in/nimeshmhj/)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nimeshmora&theme=highcontrast&show_icons=true&count_private=true)
@@ -34,3 +33,13 @@ I am a Softwar Engineer, who is working with front-end Technologies + Devops Tec
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
+
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i><p align="center">
+    <a href="https://www.linkedin.com/in/nimeshmhj/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
+    <a href="https://www.facebook.com/nimesh.jinarajadasa" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
+    <a href="https://github.com/nimeshmora" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://github.com/nimeshmora" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a></p>
+</p>
