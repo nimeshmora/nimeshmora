@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Nimesha!
 
-<a href="https://www.linkedin.com/in/nimeshmhj/">
-  <img align="left" alt="Nimesha| Facebook" width="21px" src="https://www.facebook.com/photo?fbid=3569998153064705&set=a.104947506236471"/>
-</a>
-<a href="https://medium.com/@nimeshjinarajadasa">
-  <img align="left" alt="Nimesha | Medium" width="21px" src="https://www.facebook.com/photo?fbid=3569998153064705&set=a.104947506236471"/>
-</a>
+### Hey, It's Dhruv Prajapati here
+I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
+- 💻 Working as a **CloudOps Engineer** in [Crest Data System](https://www.crestdatasys.com/a).
+- ☀️ Learning and Developing Machine Learning based projects in Python.
+- ✍️ Writing tech blog posts over Internet.
 <br />
 <br />
 
