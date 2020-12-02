@@ -16,13 +16,9 @@ I am a Softwar Engineer, who is working with front-end Technologies + Devops Tec
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=vennfig&show_owner=true)](https://github.com/nimeshmora/vennfig)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=ecampus-web&show_owner=true)](https://github.com/nimeshmora/ecampus-web)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=statsfig&show_owner=true)](https://github.com/nimeshmora/statsfig)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=covid-19-stats&show_owner=true)](https://github.com/nimeshmora/covid-19-stats)
-
-
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=get-niji-sign-npm-package&show_owner=true)](https://github.com/nimeshmora/get-niji-sign-npm-package)
 
 **Languages and Tools:**  
 
