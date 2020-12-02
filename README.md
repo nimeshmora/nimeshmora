@@ -1,28 +1,27 @@
 ### Hi there 👋, I'm Nimesha!
 
-### Hey, It's Dhruv Prajapati here
-I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+I am a Softwar Engineer, who is working with front-end Technologies + Devops Technologies. I love experimenting with new technologies and helping others.
 
-- 💻 Working as a **CloudOps Engineer** in [Crest Data System](https://www.crestdatasys.com/a).
-- ☀️ Learning and Developing Machine Learning based projects in Python.
-- ✍️ Writing tech blog posts over Internet.
+- 💻 Working as a **Software Engineer** in [IFS R&D International Pvt LTD](https://www.ifs.com/corp/).
+- ☀️ Learning and Developing Projects based on latest Front-end Technologies + Devops tools.
+- ✍️ Writing tech blog posts over the Internet.
 <br />
 <br />
 
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
+- 🌱 I’m currently learning and experimenting Devops tools such as Docker/Kubernettes/Azure VMs/Container Technologies and Pipeline development.
+- 📫 How to reach me: <https://www.linkedin.com/in/nimeshmhj/">@Nimesha</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nimeshmora&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshmora&layout=compact)
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=vennfig&show_owner=true)](https://github.com/nimeshmora/vennfig)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=statsfig&show_owner=true)](https://github.com/nimeshmora/statsfig)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=covid-19-stats&show_owner=true)](https://github.com/nimeshmora/covid-19-stats)
 
 
 
