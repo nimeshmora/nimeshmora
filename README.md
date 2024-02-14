@@ -16,9 +16,9 @@ I am a Software Engineer, who is working with front-end Technologies + Devops Te
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=ecampus-web&show_owner=true)](https://github.com/nimeshmora/cloud-resume-challenge-projects)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=cloud-resume-challenge-projects&show_owner=true)](https://github.com/nimeshmora/cloud-resume-challenge-projects)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=get-niji-sign-npm-package&show_owner=true)](https://github.com/kodekloudhub/devops-101)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=devops-101&show_owner=true)](https://github.com/kodekloudhub/devops-101)
 
 **Languages and Tools:**  
 
