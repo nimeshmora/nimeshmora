@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Nimesha!
+### Hi there 👋, I'm Nimesha! [Personal Web](https://www.nimesha.online)
 
-I am a Softwar Engineer, who is working with front-end Technologies + Devops Technologies. I love experimenting with new technologies and helping others.
+I am a Software Engineer, who is working with front-end Technologies + Devops Technologies. I love experimenting with new technologies and helping others.
 
 - 💻 Working as a **Software Engineer for Technology Team** in [IFS R&D International Pvt LTD](https://www.ifs.com/corp/) & Contributing to Framework Developmet Project. Angular/Typescript(js),REDUX,RXjs,SASS/SCSS,Webpack,Docker,Kubernettes,Pipeline Development,Azure Cloud,Cluster&Container technologies with Devops Mindset.
 - ☀️ Learning and Developing Projects based on latest Front-end Technologies + Devops tools.
