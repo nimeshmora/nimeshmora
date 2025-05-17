@@ -1,14 +1,20 @@
-### Hi there 👋, I'm Nimesha! [Personal Web](https://www.nimesha.online)
+### Hi there 👋, I'm Nimesha!  
+[🌐 Personal Web](https://www.nimesha.online) • [🎓 DevOps Academy](https://www.devopsacademy.online)
 
-I am a Software Engineer, who is working with front-end Technologies + Devops Technologies. I love experimenting with new technologies and helping others.
+I’m a **Solutions Engineer at KodeKloud**, where I’ve been shaping and scaling Cloud Native ecosystems for over two years. My work blends the best of DevOps practices and modern software engineering—whether it’s architecting containerized applications, managing Kubernetes clusters, or building efficient CI/CD pipelines.
 
-- 💻 Working as a **Software Engineer for Technology Team** in [IFS R&D International Pvt LTD](https://www.ifs.com/corp/) & Contributing to Framework Developmet Project. Angular/Typescript(js),REDUX,RXjs,SASS/SCSS,Webpack,Docker,Kubernettes,Pipeline Development,Azure Cloud,Cluster&Container technologies with Devops Mindset.
-- ☀️ Learning and Developing Projects based on latest Front-end Technologies + Devops tools.
-- ✍️ Writing tech blog posts over the Internet.
-<br />
+I’m passionate about breaking complex technical concepts into digestible, hands-on content, and I love helping learners and teams get up to speed with the latest in DevOps and Cloud.
 
-- 🌱 I’m currently learning and experimenting Devops tools such as Docker/Kubernettes/Azure VMs/Container Technologies and Pipeline development.
-- 📫 How to reach me: [Nimesha's Linkedin](https://www.linkedin.com/in/nimeshmhj/)
+- 🚀 Working with tools and platforms like **Docker, Kubernetes, Helm, GitHub Actions, Azure Cloud, Terraform**, and more.  
+- 💡 Focusing on **containerization, infrastructure as code, automation, observability**, and scalable deployments in production environments.  
+- ✍️ Writing tech blog posts, creating community resources, and mentoring aspiring engineers.  
+- 📚 Continuously experimenting with new tools in the Cloud Native landscape—learning never stops.  
+- 📫 Let’s connect: [LinkedIn → nimeshmhj](https://www.linkedin.com/in/nimeshmhj/)
+
+---
+
+Thanks for stopping by! 😊
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nimeshmora&theme=highcontrast&show_icons=true&count_private=true)
