@@ -22,11 +22,16 @@ Thanks for stopping by! 😊
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=devops-101&show_owner=true)](https://github.com/nimeshmora/devops-101)
+[![Repo: istio.io](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=istio.io&show_owner=true)](https://github.com/nimeshmora/istio.io)
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=cloud-resume-challenge-projects&show_owner=true)](https://github.com/nimeshmora/cloud-resume-challenge-projects)
+[![Repo: cloud-resume-challenge-projects](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=cloud-resume-challenge-projects&show_owner=true)](https://github.com/nimeshmora/cloud-resume-challenge-projects)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=get-niji-sign-npm-package&show_owner=true)](https://github.com/nimeshmora/get-niji-sign-npm-package)
+[![Repo: devops-101](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=devops-101&show_owner=true)](https://github.com/nimeshmora/devops-101)
+
+[![Repo: learning-app-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=learning-app-ecommerce&show_owner=true)](https://github.com/nimeshmora/learning-app-ecommerce)
+
+[![Repo: google-pub-sub-signadot](https://github-readme-stats.vercel.app/api/pin/?username=nimeshmora&repo=google-pub-sub-signadot&show_owner=true)](https://github.com/nimeshmora/google-pub-sub-signadot)
+
 
 **Languages and Tools:**  
 
