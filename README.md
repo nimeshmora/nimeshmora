@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nimesha!  
-[🌐 Personal Web](https://www.nimesha.online) • [🎓 DevOps Academy](https://www.devopsacademy.online)
+[🎓 DevOps Academy](https://www.devopsacademy.online)
 
 I’m a **Solutions Engineer at KodeKloud**, where I’ve been shaping and scaling Cloud Native ecosystems for over two years. My work blends the best of DevOps practices and modern software engineering—whether it’s architecting containerized applications, managing Kubernetes clusters, or building efficient CI/CD pipelines.
 
